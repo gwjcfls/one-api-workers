@@ -28,11 +28,5 @@
       "database_name": "one-api-workers",
       "database_id": "cb69c01b-e4a9-45b8-8959-67ec39bd6efa"
     }
-  ],
-  "analytics_engine_datasets": [
-    {
-      "binding": "USAGE_ANALYTICS",
-      "dataset": "usage_events_by_token"
-    }
   ]
 }
